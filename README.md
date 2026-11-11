@@ -12,7 +12,7 @@ The app checks for updates when it opens. When there's a new version, an **Updat
 
 ## Optional: better answers with a free Gemini key
 
-When the movie database isn't sure, the app can search the web for you using Google's Gemini. Open **Settings**, tap **Get a free key**, create a key, and paste it in. The key is stored only on your phone. Without a key, the app opens a Google search instead.
+When the movie database isn't sure, the app can search the web for you using Google's Gemini. Open **Settings**, tap **Get your key**, create a key, and paste it in. The key is stored only on your phone. Without a key, the app opens a Google search instead.
 
 ---
 
